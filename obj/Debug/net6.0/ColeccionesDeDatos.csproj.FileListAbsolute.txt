@@ -1,0 +1,15 @@
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\ColeccionesDeDatos\bin\Debug\net6.0\ColeccionesDeDatos.exe
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\ColeccionesDeDatos\bin\Debug\net6.0\ColeccionesDeDatos.deps.json
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\ColeccionesDeDatos\bin\Debug\net6.0\ColeccionesDeDatos.runtimeconfig.json
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\ColeccionesDeDatos\bin\Debug\net6.0\ColeccionesDeDatos.dll
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\ColeccionesDeDatos\bin\Debug\net6.0\ColeccionesDeDatos.pdb
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\ColeccionesDeDatos\obj\Debug\net6.0\ColeccionesDeDatos.csproj.AssemblyReference.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\ColeccionesDeDatos\obj\Debug\net6.0\ColeccionesDeDatos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\ColeccionesDeDatos\obj\Debug\net6.0\ColeccionesDeDatos.AssemblyInfoInputs.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\ColeccionesDeDatos\obj\Debug\net6.0\ColeccionesDeDatos.AssemblyInfo.cs
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\ColeccionesDeDatos\obj\Debug\net6.0\ColeccionesDeDatos.csproj.CoreCompileInputs.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\ColeccionesDeDatos\obj\Debug\net6.0\ColeccionesDeDatos.dll
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\ColeccionesDeDatos\obj\Debug\net6.0\refint\ColeccionesDeDatos.dll
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\ColeccionesDeDatos\obj\Debug\net6.0\ColeccionesDeDatos.pdb
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\ColeccionesDeDatos\obj\Debug\net6.0\ColeccionesDeDatos.genruntimeconfig.cache
+C:\Users\chris\Desktop\Curso C+ Net\C_Sharp\ColeccionesDeDatos\obj\Debug\net6.0\ref\ColeccionesDeDatos.dll
